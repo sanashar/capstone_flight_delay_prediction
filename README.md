@@ -12,11 +12,11 @@ Table of Contents -
 
 EDA Notebook               : [Notebook](Notebook/eda_phase1.ipynb)
 
-Report       : [Link](https://github.com/sanashar/breast_power_project1/tree/main/reports)
+Report       : [Link](https://sites.google.com/umbc.edu/data606/spring-2021-section-1/sana-sharma?authuser=0)
 
-Presentation       : [PowerPoint](https://github.com/sanashar/breast_power_project1/tree/main/presentation)
+Presentation       : [PowerPoint]()
 
-Youtube Presentation       : [Link](https://youtu.be/kNzVvZ2gWks)
+Youtube Presentation       : [Link]()
 
 # Data Description
 
