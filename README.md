@@ -10,7 +10,7 @@ In this Capstone project my aim is to apply machine learning algorithms like dec
 
 Table of Contents -
 
-EDA Notebook               : [Notebook](https://github.com/sanashar/breast_power_project1/tree/main/notebooks)
+EDA Notebook               : [Notebook](Notebook/eda_phase1.ipynb)
 
 Report       : [Link](https://github.com/sanashar/breast_power_project1/tree/main/reports)
 
