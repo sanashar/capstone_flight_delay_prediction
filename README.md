@@ -19,6 +19,8 @@ Presentation       : [PowerPoint](https://github.com/sanashar/breast_power_proje
 Youtube Presentation       : [Link](https://youtu.be/kNzVvZ2gWks)
 
 # Data Description
+![Data](Pictures/data_img.jpg)
+
 The datasets I am using were acquired from United States Department of Transportation’s (DOT) Bureau of Transportation Statistics (BTS) website. BTS tracks the on-time performance of domestic flights operated by large air carriers. It provides datasets that are focused on the number of on-time, delayed, canceled and diverted flights that appear in DOT's monthly Air Travel Consumer Report, published about 30 days after the month's end. The website contains data starting from June 2003 till November 2020 [3]. 
 
 For my analysis, I will use 5 datasets. All 5 datasets contain the same fields but represent different time slices. I will use 4 datasets for Phase 1 & 2 for Exploratory Data Analysis and Training my models. For Phase 3, I will use the 5th dataset to test my models on and check their accuracies. These datasets contain flight delay statistics ranging from January 2015 – January 2019. After concatenating January 2015 – January 2018 datasets into 1 dataframe, the dataset includes 1,935,930 rows and 51 columns for my Phase 1 & 2 analysis. After further exploration of the data on the BTS website, I have decided to use 29 out of the 51 columns for my analysis [4] –
