@@ -1,5 +1,5 @@
 # Flight Delay Prediction - Using Machine Learning Algorithms 
-![Delays](https://github.com/sanashar/breast_power_proejct1/blob/main/october_pic.jpg)
+![Delays](Pictures/delayed.jpeg)
 
 # Overview 
 Over the last two decades, the popularity of air travel has increased significantly among travelers, mostly because of its speed in comparison to other modes of transportation. This has led to increase in traffic in the air and on the ground, which further has resulted in massive levels of aircraft delays [1]. Flight delays cost billions of dollars and have a huge impact on the US economy, causing a stain on the air travel system, passengers and society [2]. 
