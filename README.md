@@ -19,7 +19,6 @@ Presentation       : [PowerPoint](https://github.com/sanashar/breast_power_proje
 Youtube Presentation       : [Link](https://youtu.be/kNzVvZ2gWks)
 
 # Data Description
-![Data](Pictures/data_img.jpg)
 
 The datasets I am using were acquired from United States Department of Transportation’s (DOT) Bureau of Transportation Statistics (BTS) website. BTS tracks the on-time performance of domestic flights operated by large air carriers. It provides datasets that are focused on the number of on-time, delayed, canceled and diverted flights that appear in DOT's monthly Air Travel Consumer Report, published about 30 days after the month's end. The website contains data starting from June 2003 till November 2020 [3]. 
 
