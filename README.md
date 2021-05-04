@@ -176,5 +176,3 @@ Capstone Project - Sana Sharma
 Languages    : Python 2.7
 
 Tools/IDE    : Google Collab
-
-Libraries    : pandas, matplotlib, statsmodels, sklearn, seaborn
