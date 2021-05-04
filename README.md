@@ -155,13 +155,13 @@ Since we can see above that Logistic is trained well on my data, in approach 3 I
 ### Delta Airline - 87.73
 ### SkyWest Airline - 72.20
 
-# Neural Networks
-I applied fully connected Neural Network using 3 dense and then 5 dense layers. The results of the Deep Neural Network has high accuracies in flight delay prediction. Thus, the model is overfitting. Furthermore, application of this method drops memory space and time during the training.
-
 ## Approach 4 Result
 I tried Logistic Regression on one airline and a particular origin and particular destination –
 
 ### DL – ATL to DFW - 82.27
+
+# Neural Networks
+I applied fully connected Neural Network using 3 dense and then 5 dense layers. The results of the Deep Neural Network has high accuracies in flight delay prediction. Thus, the model is overfitting. Furthermore, application of this method drops memory space and time during the training.
 
 # Conclusion
 Predicting flight delays was a challenging but interesting capstone research topic. My research focused on develop, grow and comparing the models in order to increase the precision and accuracy of predicting flight delays. Since the issue of flights being on-time is very important, flight delay prediction models must have high precision and accuracy.
