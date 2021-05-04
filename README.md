@@ -14,9 +14,11 @@ EDA Notebook               : [Notebook](Notebook/eda_phase1.ipynb)
 
 Report       : [Link](https://sites.google.com/umbc.edu/data606/spring-2021-section-1/sana-sharma?authuser=0)
 
-Presentation       : [PowerPoint]()
+Presentation Phase 1      : [PowerPoint](https://drive.google.com/file/d/1zIyrIUfUie7ceeJ0vsogHz07Q7NRyv5z/view?usp=sharing)
 
-Youtube Presentation       : [Link]()
+Presentation Phase 2      : [PowerPoint](https://drive.google.com/file/d/12y9ae-DkaJI4pXcGxMU3jtgcqvAnvbuP/view?usp=sharing)
+
+Presentation Phase 3      : [PowerPoint](https://drive.google.com/file/d/1jdAvQWvtvjlNeS35OGU8_ihLal8fy5eI/view?usp=sharing)
 
 # Data Description
 
