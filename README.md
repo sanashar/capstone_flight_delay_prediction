@@ -12,7 +12,7 @@ Table of Contents -
 
 Code Notebooks               : [Link to GitHub Folder](https://github.com/sanashar/capstone_flight_delay_prediction/tree/main/Notebook)
 
-Report       : [Link](https://sites.google.com/umbc.edu/data606/spring-2021-section-1/sana-sharma?authuser=0)
+Report       : [Link](https://sites.google.com/umbc.edu/data606/spring-21-section-1/sana-sharma?authuser=0)
 
 Tableau       : [Link](https://public.tableau.com/profile/sana.sharma#!/vizhome/FlightDelay2015-2018/FlightDelay2015-2018)
 
