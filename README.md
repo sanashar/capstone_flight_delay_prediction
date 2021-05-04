@@ -10,7 +10,7 @@ In this Capstone project my aim is to apply machine learning algorithms like dec
 
 Table of Contents -
 
-Code Notebooks               : [Link to GitHub Folder](Notebook/eda_phase1.ipynb)
+Code Notebooks               : [Link to GitHub Folder](https://github.com/sanashar/capstone_flight_delay_prediction/tree/main/Notebook)
 
 Report       : [Link](https://sites.google.com/umbc.edu/data606/spring-2021-section-1/sana-sharma?authuser=0)
 
