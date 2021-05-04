@@ -1,10 +1,6 @@
 # Flight Delay Prediction - Using Machine Learning Algorithms 
 ![Delays](Pictures/delayed.jpeg)
 
-<p align="center">
- Phase 1 -
-</p> 
-
 # Overview 
 Over the last two decades, the popularity of air travel has increased significantly among travelers, mostly because of its speed in comparison to other modes of transportation. This has led to increase in traffic in the air and on the ground, which further has resulted in massive levels of aircraft delays [1]. Flight delays cost billions of dollars and have a huge impact on the US economy, causing a stain on the air travel system, passengers and society [2]. 
 
@@ -25,6 +21,11 @@ Presentation Phase 1      : [Link](https://drive.google.com/file/d/1zIyrIUfUie7c
 Presentation Phase 2      : [Link](https://drive.google.com/file/d/12y9ae-DkaJI4pXcGxMU3jtgcqvAnvbuP/view?usp=sharing)
 
 Presentation Phase 3      : [Link](https://drive.google.com/file/d/1jdAvQWvtvjlNeS35OGU8_ihLal8fy5eI/view?usp=sharing)
+
+<p align="center">
+ Phase 1 -
+</p> 
+
 
 # Data Description
 
